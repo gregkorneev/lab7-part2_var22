@@ -1,3 +1,0 @@
-/Users/gregory.korneev/lab7-part2_var22/build/CMakeFiles/app.dir
-/Users/gregory.korneev/lab7-part2_var22/build/CMakeFiles/edit_cache.dir
-/Users/gregory.korneev/lab7-part2_var22/build/CMakeFiles/rebuild_cache.dir
