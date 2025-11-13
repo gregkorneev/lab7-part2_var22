@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.16)
+project(lab7_part2_var22_gcd CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
+add_executable(app
+    src/main.cpp
+    src/gcd_euclid.cpp
+    src/gcd_naive.cpp
+    src/utils.cpp
+)

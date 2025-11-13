@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/gcd_euclid.cpp.o CMakeFiles/app.dir/src/gcd_naive.cpp.o CMakeFiles/app.dir/src/utils.cpp.o -o bin/app
